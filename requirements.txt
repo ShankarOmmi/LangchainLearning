@@ -1,6 +1,7 @@
 #LangChain core
 langchain 
 langchain_core
+langchain_community
 
 #OpenAI Integration
 langchain-openai
@@ -27,3 +28,10 @@ numpy
 
 #deployment
 streamlit
+
+beautifulsoup4
+
+#DocumentLoaders
+
+pypdf
+grandalf
