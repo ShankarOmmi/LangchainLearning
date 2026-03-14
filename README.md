@@ -1,1 +1,0 @@
-This repository contains my steo-by-step learning of LangChain and GenerativeAI.
