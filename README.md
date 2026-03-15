@@ -16,7 +16,7 @@ The repository acts as both:
 The repository is organized into multiple folders, where each folder focuses on a specific concept in the Generative AI ecosystem.
 
 ```
-GenAI-LangChain-Learning
+LangChainLearning
 │
 ├── 01_Models
 ├── 02_Prompts
